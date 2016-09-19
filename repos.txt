@@ -1,0 +1,11 @@
+clean-code
+di
+exceptions
+fluent-api
+fp
+legacy
+mocks
+solid-design
+tdd
+testing-challenge
+testing-patterns
