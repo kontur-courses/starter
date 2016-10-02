@@ -1,6 +1,5 @@
 clean-code
 di
-exceptions
 fluent-api
 fp
 legacy
