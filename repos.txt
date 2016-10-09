@@ -6,5 +6,5 @@ legacy
 mocks
 solid-design
 tdd
-testing-challenge
-testing-patterns
+testing
+
