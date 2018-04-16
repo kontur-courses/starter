@@ -1,10 +1,11 @@
+testing
+tdd
 clean-code
+linq
+solid-design
 di
+mocks
 fluent-api
 fp
 legacy
-mocks
-solid-design
-tdd
-testing
-
+exceptions
